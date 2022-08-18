@@ -1,4 +1,0 @@
-Deployment:
-  tasks:
-    - export DEPLOYPATH=/home1/wishtree/public_html/test/wp-content/themes/twentytwentytwo/
-    - /bin/cp/ * $DEPLOYPATH
